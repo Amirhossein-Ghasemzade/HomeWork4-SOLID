@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../ISP/ISP.csproj" />
+  <Project Path="../LSP/LSP.csproj" />
+  <Project Path="../Multiple-Choice-Challenge/Multiple-Choice-Challenge.csproj" />
+  <Project Path="../OCP/OCP.csproj" />
+  <Project Path="../OnlineShop with Discount/OnlineShop with Discount.csproj" />
+  <Project Path="../SRP/SRP.csproj" />
+  <Project Path="DIP.csproj" />
+</Solution>
